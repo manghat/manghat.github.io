@@ -1,0 +1,255 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-97b4358ce9c45abe93f4.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.0a78c257168e1092b3e1.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-506c85b945b53a8e8e82.js
+  Cache-Control: public, max-age=31536000, immutable
+/1-c571db2944e3a31651ff.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-not-found-template-js-0a959de0d922f78f7d5d.js
+  Cache-Control: public, max-age=31536000, immutable
+/3-fc7d80b4fd602e1ac8ce.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tags-list-template-js-b2c206b63354cc5e892b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-categories-list-template-js-32597120f6641d2eb5aa.js
+  Cache-Control: public, max-age=31536000, immutable
+/2-840a1c2b6eca0fdf4d4a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-template-js-6ce0b2005f6c41379332.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-57876482659f16559817.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tag-template-js-9d452903c01f18bf7738.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-category-template-js-2ebf42a59a1710d78909.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-index-template-js-1beeb1fa3ef3ba775d7c.js
+  Cache-Control: public, max-age=31536000, immutable
+/pages-manifest-039b822024e1e2298753.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-b1058359ba8c42918b65.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-ed3529a698750cc8f8dd.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/manghat/offline-plugin-app-shell-fallback/
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/component---node-modules-gatsby-plugin-offline-app-shell-js-97b4358ce9c45abe93f4.js>; rel=preload; as=script
+/manghat/404
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-not-found-template-js-0a959de0d922f78f7d5d.js>; rel=preload; as=script
+/manghat/tags
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/3-fc7d80b4fd602e1ac8ce.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tags-list-template-js-b2c206b63354cc5e892b.js>; rel=preload; as=script
+/manghat/categories
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/3-fc7d80b4fd602e1ac8ce.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-categories-list-template-js-32597120f6641d2eb5aa.js>; rel=preload; as=script
+/manghat/posts/the-origins-of-social-stationery-lettering
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-post-template-js-6ce0b2005f6c41379332.js>; rel=preload; as=script
+/manghat/posts/a-brief-history-of-typography/
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-post-template-js-6ce0b2005f6c41379332.js>; rel=preload; as=script
+/manghat/posts/humane-typography-in-the-digital-age/
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-post-template-js-6ce0b2005f6c41379332.js>; rel=preload; as=script
+/manghat/pages/contacts/
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-page-template-js-57876482659f16559817.js>; rel=preload; as=script
+/manghat/pages/about/
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-page-template-js-57876482659f16559817.js>; rel=preload; as=script
+/manghat/posts/perfecting-the-art-of-perfection/
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-post-template-js-6ce0b2005f6c41379332.js>; rel=preload; as=script
+/manghat/posts/the-birth-of-movable-type/
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-post-template-js-6ce0b2005f6c41379332.js>; rel=preload; as=script
+/manghat/tag/design
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/tag/gatsby
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/tag/handwriting
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/tag/helvetica
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/tag/history-of-typography
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/tag/learning-to-write
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/tag/linotype
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/tag/monotype
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/tag/open-source
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/tag/typography
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/tag/web-development
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-tag-template-js-9d452903c01f18bf7738.js>; rel=preload; as=script
+/manghat/category/design-culture
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-category-template-js-2ebf42a59a1710d78909.js>; rel=preload; as=script
+/manghat/category/design-inspiration
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-category-template-js-2ebf42a59a1710d78909.js>; rel=preload; as=script
+/manghat/category/typography
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-category-template-js-2ebf42a59a1710d78909.js>; rel=preload; as=script
+/manghat/
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-index-template-js-1beeb1fa3ef3ba775d7c.js>; rel=preload; as=script
+/manghat/page/1
+  Link: </manghat/webpack-runtime-b1058359ba8c42918b65.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/app-ed3529a698750cc8f8dd.js>; rel=preload; as=script
+  Link: </manghat/styles-506c85b945b53a8e8e82.js>; rel=preload; as=script
+  Link: </manghat/1-c571db2944e3a31651ff.js>; rel=preload; as=script
+  Link: </manghat/2-840a1c2b6eca0fdf4d4a.js>; rel=preload; as=script
+  Link: </manghat/component---src-templates-index-template-js-1beeb1fa3ef3ba775d7c.js>; rel=preload; as=script
